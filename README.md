@@ -1,7 +1,7 @@
 # IMPORTANT
 
 IMPORTANT NOTE: this was made for educational purposes ONLY  
-IMPORTANT NOTE: when cloning, make sure to be in the ~ folder, otherwise it will not be installed propperlly and it might break your Windows subsystem for linux machine (that won't really happen, unless...)  
+IMPORTANT NOTE: when cloning, make sure to be in the ~ folder, otherwise it will not be installed propperlly and it might break your Windows subsystem for linux machine (that is a rare chance if you do it, unless...)  
 NOTE: this does not mean you have lost your wsl machine if you run it, close the wsl window then head to your home folder using File Explorer by going to Linux > DistroName > home > Username then erase the text in .bash_profile, if that doesn't work then ask me about it  
 NOTE: also if you accadentlly cloned it somewhere else then ~ first cd to ~ then run touch .bash_histroy but if that doesn't work, tell me then i can help you!  
 # Instuctions
