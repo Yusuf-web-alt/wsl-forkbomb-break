@@ -1,8 +1,7 @@
-*.txt
-*.py
 *.cmd
 *.bat
 *.png
 *.jpg
 *.jpeg
 *.webp
+*.img
