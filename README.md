@@ -6,7 +6,7 @@ NOTE: this does not mean you have lost your wsl machine if you run it, close the
 NOTE: also if you accadentlly cloned it somewhere else then ~ tell me then i can help you  
 # Instuctions
 
-if you don't have git try running: sudo apt update && sudo apt install git -y  then try again  
+if you don't have git try running: sudo apt update && sudo apt install git -y  
 run forkbomb_installer.sh then reboot to take changes  
 this is not permanent if you read the IMPORTANT notes  
 
